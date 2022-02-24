@@ -15,6 +15,7 @@ struct DogLabelUIApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(network) // Added by Iurie
         }
     }
 }
