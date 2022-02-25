@@ -13,6 +13,7 @@
 		8AB4D9A427C803B2004B5588 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8AB4D9A327C803B2004B5588 /* Preview Assets.xcassets */; };
 		8AB4D9AB27C805A3004B5588 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB4D9AA27C805A3004B5588 /* Network.swift */; };
 		8AB4D9AD27C80638004B5588 /* DogImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB4D9AC27C80638004B5588 /* DogImage.swift */; };
+		8AB4D9AF27C818FD004B5588 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB4D9AE27C818FD004B5588 /* Helper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		8AB4D9A327C803B2004B5588 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8AB4D9AA27C805A3004B5588 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
 		8AB4D9AC27C80638004B5588 /* DogImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogImage.swift; sourceTree = "<group>"; };
+		8AB4D9AE27C818FD004B5588 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				8AB4D99E27C803B0004B5588 /* ContentView.swift */,
 				8AB4D9A027C803B2004B5588 /* Assets.xcassets */,
 				8AB4D9AA27C805A3004B5588 /* Network.swift */,
+				8AB4D9AE27C818FD004B5588 /* Helper.swift */,
 				8AB4D9AC27C80638004B5588 /* DogImage.swift */,
 				8AB4D9A227C803B2004B5588 /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				8AB4D99F27C803B0004B5588 /* ContentView.swift in Sources */,
 				8AB4D99D27C803B0004B5588 /* DogLabelUIApp.swift in Sources */,
+				8AB4D9AF27C818FD004B5588 /* Helper.swift in Sources */,
 				8AB4D9AD27C80638004B5588 /* DogImage.swift in Sources */,
 				8AB4D9AB27C805A3004B5588 /* Network.swift in Sources */,
 			);

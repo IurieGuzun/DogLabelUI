@@ -10,12 +10,12 @@ import SwiftUI
 @main
 struct DogLabelUIApp: App {
    
-    var network = Network()  // Added by Iurie
+//    var network = Network()  // Added by Iurie
     
     var body: some Scene {
         WindowGroup {
             ContentView()
-                .environmentObject(network) // Added by Iurie
+//                .environmentObject(network) // Added by Iurie
         }
     }
 }
